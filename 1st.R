@@ -1,4 +1,4 @@
-library(ada)
+#Associtional Rule Mining Example
 # --------------------------
 # 1. INSTALL & LOAD PACKAGES
 # --------------------------
